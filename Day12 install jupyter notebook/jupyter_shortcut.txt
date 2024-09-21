@@ -1,0 +1,3 @@
+@ECHO OFF
+CD /d C:\Users\<your-username->
+START Jupyter Notebook

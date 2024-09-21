@@ -1,0 +1,20 @@
+# Jupyter Notebook Setup Instructions
+
+## Step 1: Convert this Text File to a Batch File
+1. Save jupyter_shortcut.txt file with a `.bat` extension (e.g., `setup_jupyter.bat`).
+2. Right-click on the file and choose "Rename" to change the extension from `.txt` to `.bat`.
+
+## Step 2: Create a Shortcut on the Desktop
+1. Right-click on the `setup_jupyter.bat` file and select "Create Shortcut."
+2. Drag and drop the shortcut to your desktop or any desired location.
+
+## Step 3: Customize the Shortcut Icon
+1. Right-click on the shortcut and select "Properties."
+2. Under the "Shortcut" tab, click on "Change Icon..."
+3. Browse to select your `.ico` file and apply the changes.
+
+## Step 4: Run the Setup
+1. Double-click the shortcut to run the setup.
+2. The script will automatically set up Jupyter Notebook.
+
+## Batch File Commands (Copy Below into Your .bat File):
