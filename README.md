@@ -1,6 +1,6 @@
 # 100 Days of ML - Campux Course Journey
 
-Welcome to my learning journey following the **100 Days of ML** course by [Campux on YouTube](https://www.youtube.com/@campux). This repository documents my progress through their comprehensive machine learning curriculum.
+Welcome to my learning journey following the **100 Days of ML** course by [Campux on YouTube](https://www.youtube.com/@campusx-official). This repository documents my progress through their comprehensive machine learning curriculum.
 
 ## About The Course
 
@@ -8,75 +8,32 @@ This is a structured learning path following Campux's 100 Days of Machine Learni
 
 ## Course Structure
 
-### Week 1-2: Python & ML Foundations
-* Python Programming Essentials
-* NumPy & Pandas for Data Manipulation
-* Basic Mathematics for ML
-* Introduction to Jupyter Notebooks
-
-### Week 3-4: Data Preprocessing & Analysis
-* Data Cleaning Techniques
-* Feature Engineering
-* Exploratory Data Analysis (EDA)
-* Statistical Analysis Basics
-
-### Week 5-6: Machine Learning Basics
-* Linear Regression
-* Logistic Regression
-* Decision Trees
-* Random Forests
-
-### Week 7-8: Advanced ML Algorithms
-* Support Vector Machines
-* K-Means Clustering
-* Principal Component Analysis
-* Cross-Validation Techniques
-
-### Week 9-10: Deep Learning Fundamentals
-* Neural Networks Basics
-* TensorFlow & Keras
-* CNN Fundamentals
-* Transfer Learning
-
-### Week 11-12: Advanced Deep Learning
-* RNNs and LSTMs
-* Natural Language Processing
-* Computer Vision Applications
-* Model Deployment Basics
-
-### Week 13-14: Projects & Applications
-* Real-world Project Implementation
-* Model Optimization
-* Deployment Strategies
-* Best Practices
 
 ## Repository Structure
 
 ```
-├── daily_notes/
-│   ├── day_001/
-│   ├── day_002/
-│   └── ...
+├── Dayn detail/
+│   ├── notebook/
+│   ├── csv/
+│
 ├── projects/
 │   ├── project_1/
 │   ├── project_2/
 │   └── ...
-├── resources/
-│   ├── datasets/
-│   └── references/
-└── notebooks/
-    ├── week1/
-    ├── week2/
-    └── ...
+├── interview prepration/
+│   ├── notes.pdf/
+│   └── ml.md/
+    └── introduction.md/
+    
 ```
 
 ## Progress Tracker
 
-| Week | Topic               | Status          | Notes |
+| Day | Topic               | Status          | Notes |
 |------|----------------------|-----------------|-------|
-| 1    | Python Foundations   | 🟢 Completed    |       |
-| 2    | Data Libraries       | 🟢 Completed    |       |
-| 3    | Data Preprocessing   | 🟢 Completed    |       |
+| 1-10    | Python Foundations   | 🟢 Completed    |       |
+| 11-20  | Data Libraries       | 🟢 Completed    |       |
+| 21-30    | Data Preprocessing   | 🟢 Completed    |       |
 | 4    | Algorithms           | 🔵 Starting Soon |       |
 | ...  | ...                  | ...             | ...   |
 
@@ -85,8 +42,7 @@ This is a structured learning path following Campux's 100 Days of Machine Learni
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/harshbopaliya/100-days-ml-campux.git
-cd 100-days-ml-campux
+git clone https://github.com/harshbopaliya/100-days-of-machine-learning.git
 ```
 
 2. Install required packages:
@@ -95,9 +51,9 @@ pip install -r requirements.txt
 ```
 
 ## Resources
-- [Campux YouTube Channel](https://www.youtube.com/@campux)
-- [Course Playlist](https://youtube.com/playlist?list=...)
-- [Official Course Materials](https://github.com/campux/100-days-ml)
+- [Campux YouTube Channel](https://www.youtube.com/@campusx-official)
+- [Course Playlist](https://youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&si=kPDjUI2kML270dYK)
+- [Official Course Materials](https://github.com/campusx-official/100-days-of-machine-learning)
 
 ## Tools Used
 - Python 3.8+
