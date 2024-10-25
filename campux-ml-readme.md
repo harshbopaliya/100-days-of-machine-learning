@@ -72,18 +72,20 @@ This is a structured learning path following Campux's 100 Days of Machine Learni
 
 ## Progress Tracker
 
-| Week | Topic | Status | Notes |
-|------|-------|--------|-------|
-| 1 | Python Foundations | 🟢 Completed | |
-| 2 | Data Libraries | 🟢 Completed | |
-| 3 | Data Preprocessing | 🟡 In Progress | |
-| ... | ... | ... | ... |
+| Week | Topic               | Status          | Notes |
+|------|----------------------|-----------------|-------|
+| 1    | Python Foundations   | 🟢 Completed    |       |
+| 2    | Data Libraries       | 🟢 Completed    |       |
+| 3    | Data Preprocessing   | 🟢 Completed    |       |
+| 4    | Algorithms           | 🔵 Starting Soon |       |
+| ...  | ...                  | ...             | ...   |
+
 
 ## Getting Started
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/100-days-ml-campux.git
+git clone https://github.com/harshbopaliya/100-days-ml-campux.git
 cd 100-days-ml-campux
 ```
 
